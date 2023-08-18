@@ -1,1 +1,3 @@
-Hello! I'm Wei En, an undergraduate at the National University of Singapore studying Computer Science and Mathematics. Currently interested in learning theory and its applications towards practical machine learning methods, as well as other areas of theoretical computer science!
+Hello! I'm Wei En, an undergraduate at the National University of Singapore studying Computer Science and Mathematics. I'm currently interested in statistical learning theory and its applications towards robust and efficient machine learning methods, as well as integrating other areas of theoretical computer science into machine learning.
+
+Outside of research, I take an avid interest in open source software engineering and am also passionate in education initiatives targeted at improving access to opportunities for the less privileged. In my free time, I like to brew a fresh cup of coffee/tea, listen to music, and occasionally indulge in other recreational activities!
